@@ -1,3 +1,3 @@
 ## myAirbnb
 
-#### Spring Boot + MySQL + AngularJS
+### Spring Boot + MySQL + AngularJS
